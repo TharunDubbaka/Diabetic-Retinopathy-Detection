@@ -114,7 +114,7 @@ Matplotlib
 
 scikit-learn
 
-Potential Applications
+## Potential Applications
 
 Automated DR screening systems
 
